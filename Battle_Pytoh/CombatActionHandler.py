@@ -139,7 +139,7 @@ def initBattle(player,enemy,backPack):
 
     #Mettre en place le sac, et y ajouter deux items aléatoires
     backPack.storeItem(ItemHolder().pickRandomItem());
-    backPack.storeItem(ItemHolder().getItemById(22));
+    backPack.storeItem(ItemHolder().pickRandomItem());
     
     #Lancer l'animation du round
     nextRoundAnimation(0,player,backPack,enemy,newEnemy);
