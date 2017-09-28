@@ -37,6 +37,14 @@ Il existe beaucoup d'items avec chaqun des spécificitées, mais voici quelques 
 |Amulette|Amulette de transformation de sac (1 UT)|Une amulette qui change tout vos items avec d'autres aléatoires !|
 
 
+## Installation
+```
+sudo apt-get install git && apt-get install python3
+git clone http://github.com/mtribiere/Battle_Pytoh.git
+cd Battle_Pythoh
+python3 main.py
+```
+
 ## Exemple d'une phase de combat
 ```
 |Hive|
