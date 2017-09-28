@@ -24,8 +24,7 @@ Vous pourrez rencontrer dans ce jeu :
 |Des squelettes     |7       |7       |
 |Des dragons        |23      |7       |
 
-##
-Les Items
+## Les Items
 Il existe beaucoup d'items avec chaqun des spécificitées, mais voici quelques exemples avec leur catégorie :<br>
 
 |Categories         |Nom         |Effet    |
@@ -36,3 +35,33 @@ Il existe beaucoup d'items avec chaqun des spécificitées, mais voici quelques 
 |Parchemin|Parchemin d'enchantement d'armes +1|Un parchemin magique qui enchante votre arme. Ajoute 1 a vos AP|
 |Amulette|Amullette de régéneration +2 (3 UT)|Une amulette aque vous pouvez utilisze 3  fois. Elle redonne 2 PV par utilisation|
 |Amulette|Amulette de transformation de sac (1 UT)|Une amulette qui change tout vos items avec d'autres aléatoires !|
+
+
+## Exemple d'une phase de combat
+```
+|Hive|
+*--------------*
+|              |
+|Pv : 12       |
+|Ap : 5        |
+|              |
+*--------------*
+
+|Rat|
+*--------------*
+|              |
+|Pv : 3        |
+|Ap : 1        |
+|              |
+*--------------*
+
+Actions possibles : 
+[0]Attaquer
+[1]Ouvrir le sac
+[2]Fuir
+
+Que Faire ?
+```
+
+## Auteur
+[Jaaber]
