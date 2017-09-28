@@ -7,7 +7,7 @@ Battle_Pytoh est un un petit jeu de combat écrit en python3. Dans celui-ci vous
 Chaque personnages, que soit les ennemis ou Hive possedent leurs propres statistiques :<br><br>
 Les PV (ou points de vies) qui designent les point de vies. S'ils tombent a 0 c'est la mort du personnage.<br>
 Les AP (ou points d'attaques) qui designent les points d'attaques. C'est la force avec laquelle un personnage va pouvoir frapper<br><br>
-Les combats s'enchainent jusqu'a votre mort ! Mais heureusement Hive est malin, et a emporté un sac avec lui ! Il a donc sur lui 2 Items alétoires à chaque début de partie, et un Item aléatoire par ennemi vaincu.
+Les combats s'enchainent jusqu'a votre mort ! Mais heureusement Hive est malin, et a emporté un sac avec lui ! Il a donc sur lui 2 Items alétoires à chaque début de partie, et un Item aléatoire par ennemi vaincu. De plus certains Item ne peuvent étres utiliser qu'un nombre de fois fixe. On utilise alors les UT (point d'utilisation) qui montront combien de fois l'Item peut encore être utiliser 
 
 ## Le Bestiaire
 Vous pourrez rencontrer dans ce jeu : 
